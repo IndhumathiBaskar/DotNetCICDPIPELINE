@@ -1,0 +1,15 @@
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.sourcelink.json
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\ibaskar\Desktop\Learning\Jenkins\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
